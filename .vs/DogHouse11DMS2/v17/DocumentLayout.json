@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Milen11D\\DogHouse11DMS2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|c:\\milen11d\\doghouse11dms2\\doghouse11dms2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|solutionrelative:doghouse11dms2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|c:\\milen11d\\doghouse11dms2\\doghouse11dms2\\view\\diplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|solutionrelative:doghouse11dms2\\view\\diplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|c:\\milen11d\\doghouse11dms2\\doghouse11dms2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|solutionrelative:doghouse11dms2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|C:\\Milen11D\\DogHouse11DMS2\\doghouse11dms2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|solutionrelative:doghouse11dms2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|C:\\Milen11D\\DogHouse11DMS2\\doghouse11dms2\\model\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|solutionrelative:doghouse11dms2\\model\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|C:\\Milen11D\\DogHouse11DMS2\\doghouse11dms2\\controller\\breedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|solutionrelative:doghouse11dms2\\controller\\breedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|C:\\Milen11D\\DogHouse11DMS2\\doghouse11dms2\\controller\\dogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|solutionrelative:doghouse11dms2\\controller\\dogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DogsHouse_11d_2024/True/SqlTable/dbo.Breeds.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|C:\\Milen11D\\DogHouse11DMS2\\doghouse11dms2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|solutionrelative:doghouse11dms2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|C:\\Milen11D\\DogHouse11DMS2\\doghouse11dms2\\migrations\\202405140733251_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|solutionrelative:doghouse11dms2\\migrations\\202405140733251_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|C:\\Milen11D\\DogHouse11DMS2\\doghouse11dms2\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|solutionrelative:doghouse11dms2\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|C:\\Milen11D\\DogHouse11DMS2\\doghouse11dms2\\model\\dogsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|solutionrelative:doghouse11dms2\\model\\dogsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|C:\\Milen11D\\DogHouse11DMS2\\doghouse11dms2\\model\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F35102F-517C-4EA7-9BEE-0B3E626234CC}|DogHouse11DMS2\\DogHouse11DMS2.csproj|solutionrelative:doghouse11dms2\\model\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Program.cs",
+              "RelativeDocumentMoniker": "DogHouse11DMS2\\Program.cs",
+              "ToolTip": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Program.cs",
+              "RelativeToolTip": "DogHouse11DMS2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T09:32:19.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Diplay.cs",
+              "DocumentMoniker": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\View\\Diplay.cs",
+              "RelativeDocumentMoniker": "DogHouse11DMS2\\View\\Diplay.cs",
+              "ToolTip": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\View\\Diplay.cs",
+              "RelativeToolTip": "DogHouse11DMS2\\View\\Diplay.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAAAJ4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T08:53:25.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Form1.cs",
+              "RelativeDocumentMoniker": "DogHouse11DMS2\\Form1.cs",
+              "ToolTip": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Form1.cs",
+              "RelativeToolTip": "DogHouse11DMS2\\Form1.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAAK4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:33:04.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BreedController.cs",
+              "DocumentMoniker": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Controller\\BreedController.cs",
+              "RelativeDocumentMoniker": "DogHouse11DMS2\\Controller\\BreedController.cs",
+              "ToolTip": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Controller\\BreedController.cs",
+              "RelativeToolTip": "DogHouse11DMS2\\Controller\\BreedController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:22:46.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DogsController.cs",
+              "DocumentMoniker": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Controller\\DogsController.cs",
+              "RelativeDocumentMoniker": "DogHouse11DMS2\\Controller\\DogsController.cs",
+              "ToolTip": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Controller\\DogsController.cs",
+              "RelativeToolTip": "DogHouse11DMS2\\Controller\\DogsController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T08:10:52.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.Breeds [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DogsHouse_11d_2024/True/SqlTable/dbo.Breeds.sql",
+              "ToolTip": "dbo.Breeds [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-14T08:10:25.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Form1.cs",
+              "RelativeDocumentMoniker": "DogHouse11DMS2\\Form1.cs",
+              "ToolTip": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Form1.cs [Design]",
+              "RelativeToolTip": "DogHouse11DMS2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:17:23.454Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Model\\Dog.cs",
+              "RelativeDocumentMoniker": "DogHouse11DMS2\\Model\\Dog.cs",
+              "ToolTip": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Model\\Dog.cs",
+              "RelativeToolTip": "DogHouse11DMS2\\Model\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:18:42.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\App.config",
+              "RelativeDocumentMoniker": "DogHouse11DMS2\\App.config",
+              "ToolTip": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\App.config",
+              "RelativeToolTip": "DogHouse11DMS2\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-14T07:22:14.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "202405140733251_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Migrations\\202405140733251_InitialMigration.cs",
+              "RelativeDocumentMoniker": "DogHouse11DMS2\\Migrations\\202405140733251_InitialMigration.cs",
+              "ToolTip": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Migrations\\202405140733251_InitialMigration.cs",
+              "RelativeToolTip": "DogHouse11DMS2\\Migrations\\202405140733251_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:34:13.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DogHouse11DMS2\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DogHouse11DMS2\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:32:18.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DogsDbContext.cs",
+              "DocumentMoniker": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Model\\DogsDbContext.cs",
+              "RelativeDocumentMoniker": "DogHouse11DMS2\\Model\\DogsDbContext.cs",
+              "ToolTip": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Model\\DogsDbContext.cs",
+              "RelativeToolTip": "DogHouse11DMS2\\Model\\DogsDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:18:59.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Breed.cs",
+              "DocumentMoniker": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Model\\Breed.cs",
+              "RelativeDocumentMoniker": "DogHouse11DMS2\\Model\\Breed.cs",
+              "ToolTip": "C:\\Milen11D\\DogHouse11DMS2\\DogHouse11DMS2\\Model\\Breed.cs",
+              "RelativeToolTip": "DogHouse11DMS2\\Model\\Breed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:18:20.235Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

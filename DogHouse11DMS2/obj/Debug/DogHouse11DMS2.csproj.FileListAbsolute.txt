@@ -1,0 +1,16 @@
+C:\Milen11D\DogHouse11DMS2\DogHouse11DMS2\bin\Debug\DogHouse11DMS2.exe.config
+C:\Milen11D\DogHouse11DMS2\DogHouse11DMS2\bin\Debug\DogHouse11DMS2.exe
+C:\Milen11D\DogHouse11DMS2\DogHouse11DMS2\bin\Debug\DogHouse11DMS2.pdb
+C:\Milen11D\DogHouse11DMS2\DogHouse11DMS2\bin\Debug\EntityFramework.dll
+C:\Milen11D\DogHouse11DMS2\DogHouse11DMS2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Milen11D\DogHouse11DMS2\DogHouse11DMS2\bin\Debug\EntityFramework.xml
+C:\Milen11D\DogHouse11DMS2\DogHouse11DMS2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Milen11D\DogHouse11DMS2\DogHouse11DMS2\obj\Debug\DogHouse11DMS2.csproj.AssemblyReference.cache
+C:\Milen11D\DogHouse11DMS2\DogHouse11DMS2\obj\Debug\DogHouse11DMS2.Properties.Resources.resources
+C:\Milen11D\DogHouse11DMS2\DogHouse11DMS2\obj\Debug\DogHouse11DMS2.csproj.GenerateResource.cache
+C:\Milen11D\DogHouse11DMS2\DogHouse11DMS2\obj\Debug\DogHouse11DMS2.csproj.CoreCompileInputs.cache
+C:\Milen11D\DogHouse11DMS2\DogHouse11DMS2\obj\Debug\DogHouse.BFF78997.Up2Date
+C:\Milen11D\DogHouse11DMS2\DogHouse11DMS2\obj\Debug\DogHouse11DMS2.exe
+C:\Milen11D\DogHouse11DMS2\DogHouse11DMS2\obj\Debug\DogHouse11DMS2.pdb
+C:\Milen11D\DogHouse11DMS2\DogHouse11DMS2\obj\Debug\DogHouse11DMS2.Migrations.InitialMigration.resources
+C:\Milen11D\DogHouse11DMS2\DogHouse11DMS2\obj\Debug\DogHouse11DMS2.Form1.resources
